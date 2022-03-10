@@ -18,7 +18,7 @@
 
 ### Technical Skills
 
-**Programming languages and technologies:** HTML, CSS/SCSS, TypeScript
+**Programming languages and technologies:** HTML, CSS/SCSS, Javascript, TypeScript
 **Frameworks and Libraries:** React,Redux, Reveal, bootstrap  
 **Tools:** GIT, Webpack, VS Code, Adobe Photoshop, Figma  
 **Other skills:** SolidWorks, AutoCad, Compas 3D
