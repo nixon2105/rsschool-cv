@@ -8,3 +8,19 @@
 **English:** elementary (A2)
 
 ---
+
+### Objective & Summary
+
+> Start a career as a frond-end developer at EPAM and in 5 years grow to the team leader.
+> I have good analytical skills. Easy to learn. I work well in a team.
+
+---
+
+### Technical Skills
+
+**Programming languages and technologies:** HTML, CSS/SCSS, TypeScript
+**Frameworks and Libraries:** React,Redux, Reveal, bootstrap  
+**Tools:** GIT, Webpack, VS Code, Adobe Photoshop, Figma  
+**Other skills:** SolidWorks, AutoCad, Compas 3D
+
+---
