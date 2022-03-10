@@ -43,9 +43,7 @@
 ```
 const arr = [1, 2, 3, 4];
 
-const sumWithInitial = arr.reduce(
-  (previousValue, currentValue) => previousValue + currentValue, 0
-);
+const sumWithInitial = arr.reduce((previousValue, currentValue) => previousValue + currentValue, 0);
 
 ```
 
